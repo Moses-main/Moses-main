@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 
 ### 📺 YouTube Videos
 
-Comming Soon ...
+##### Comming Soon ...
 
 <!-- https://youtube.com/shorts/JN_O6n5g34I?si=EVXcawr0PN9cozmL -->
 
@@ -111,7 +111,7 @@ Comming Soon ...
 [![Dev Startup Day 9 - Done with the Profile Page!](https://ytcards.demolab.com/?id=R-1xJTFknc8&title=Dev+Startup+Day+9+-+Done+with+the+Profile+Page%21&lang=en&timestamp=1700571618&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2857 "Dev Startup Day 9 - Done with the Profile Page!")](https://www.youtube.com/watch?v=R-1xJTFknc8)
 [![Dev Startup Day 8 - UI/UX and More Data Flow](https://ytcards.demolab.com/?id=bxwybHcbl_4&title=Dev+Startup+Day+8+-+UI%2FUX+and+More+Data+Flow&lang=en&timestamp=1699896604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4093 "Dev Startup Day 8 - UI/UX and More Data Flow")](https://www.youtube.com/watch?v=bxwybHcbl_4)
 [![I Coded 5 Mystery Revealing Mini Games!](https://ytcards.demolab.com/?id=jCem-wZuH34&title=I+Coded+5+Mystery+Revealing+Mini+Games%21&lang=en&timestamp=1699630209&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=402 "I Coded 5 Mystery Revealing Mini Games!")](https://www.youtube.com/watch?v=jCem-wZuH34)
---> -->
+-->
 
 <!-- END YOUTUBE-CARDS -->
 
