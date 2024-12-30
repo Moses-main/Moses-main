@@ -12,47 +12,43 @@
 <img src="https://komarev.com/ghpvc/?username=Moses-main&amp;style=for-the-badge" alt="Profile Views Count Badge"></p>
 
 <hr>
-<p style="font-size: 1.1em; line-height: 1.6; color: #333;">
+<p style="font-size: 1.1em; line-height: 1.6; color: #333; text-align: left; text-justify: inter-word;">
   Hey there! 👋🏾 I'm deeply passionate about technology, especially software and blockchain development. I've spent significant time honing my skills in both areas, building innovative solutions and exploring new possibilities. Additionally, I'm skilled in crafting technical articles, making complex concepts accessible to readers.
 </p>
 
 <!-- 
-<p style="font-size: 1.1em; line-height: 1.6; color: #333;">
+<p style="font-size: 1.1em; line-height: 1.6; color: #333; text-align: left; text-justify: inter-word;">
   As an advocate for open-source collaboration, I actively contribute to projects that drive progress and innovation in the tech industry. I believe in the power of community-driven development to create meaningful impact.
 </p>
 -->
 
-<p style="font-size: 1.1em; line-height: 1.6; color: #333;">
+<p style="font-size: 1.1em; line-height: 1.6; color: #333; text-align: left; text-justify: inter-word;">
   Beyond coding and writing, I thrive in community settings. I've cultivated vibrant tech communities where individuals come together to learn, collaborate, and support each other. Whether you need a software developer, blockchain enthusiast, technical writer, open-source contributor, or community builder, I'm here and ready to collaborate! Let's make a positive impact together in the world of technology.
 </p>
 
-<h3 style="font-size: 1.4em; color: #1e40af; margin-top: 2em;">🌟 What I Do Best</h3>
-<ul style="font-size: 1.1em; line-height: 1.6; color: #333;">
+<h3 style="font-size: 1.4em; color: #1e40af; margin-top: 2em; text-align: left;">🌟 What I Do Best</h3>
+<ul style="font-size: 1.1em; line-height: 1.6; color: #333; text-align: left; text-justify: inter-word;">
   <li><strong>Backend Mastery</strong>: Building powerful, scalable backend systems with Node.js, Express.js, and Laravel.</li>
   <li><strong>Frontend Wizardry</strong>: Creating beautiful, responsive user interfaces with React, Tailwind CSS, and Material UI.</li>
   <li><strong>Blockchain Developer</strong>: Developing smart contracts on Ethereum and zkSync, and building decentralized applications that change how we interact with the web.</li>
-  <!-- <li><strong>Cloud & DevOps Enthusiast</strong>: Deploying apps using Google Cloud, Kubernetes, and CI/CD practices to streamline development and production pipelines.</li> -->
 </ul>
 
-<h3 style="font-size: 1.4em; color: #1e40af; margin-top: 2em;">💡 Technologies I Work With</h3>
-<p style="font-size: 1.1em; line-height: 1.6; color: #333;">
+<h3 style="font-size: 1.4em; color: #1e40af; margin-top: 2em; text-align: left;">💡 Technologies I Work With</h3>
+<p style="font-size: 1.1em; line-height: 1.6; color: #333; text-align: left; text-justify: inter-word;">
   <strong>Languages:</strong> JavaScript, Python, Solidity, PHP, SQL, Elixir<br>
   <strong>Frontend:</strong> React, Tailwind CSS, Bootstrap, Material UI<br>
   <strong>Backend:</strong> Node.js, Laravel, Elixir, Phoenix<br>
   <strong>Blockchain:</strong> Ethereum, Solidity, Web3.js, zkSync, Smart Contracts<br>
   <strong>Databases:</strong> MongoDB, MySQL, PostgreSQL<br>
-  <strong>DevOps & Cloud:</strong> Google Cloud, Docker, Kubernetes (GKE), CI/CD, GitHub Actions<br>
   <strong>Tools:</strong> Git, Figma, VS Code, Web3.js, Docker, Agile, TDD, thirdweb.js
 </p>
 
-<h3 style="font-size: 1.4em; color: #1e40af; margin-top: 2em;">🏆 Why I Stand Out</h3>
-<ul style="font-size: 1.1em; line-height: 1.6; color: #333;">
+<h3 style="font-size: 1.4em; color: #1e40af; margin-top: 2em; text-align: left;">🏆 Why I Stand Out</h3>
+<ul style="font-size: 1.1em; line-height: 1.6; color: #333; text-align: left; text-justify: inter-word;">
   <li><strong>Innovative Blockchain Developer</strong>: I don’t just follow trends; I build them. With experience building dApps and smart contracts, I’m making decentralized systems more accessible and powerful.</li>
   <li><strong>Leadership & Community Impact</strong>: As the Director of ICT at NACOS, FUTO, I lead tech initiatives, advocate for innovation, and empower students with cutting-edge knowledge. I was also honored as an Outstanding Volunteer for my role in promoting Google Developers' events.</li>
   <li><strong>Full-Stack Problem Solver</strong>: From tackling complex backend challenges at Stackclique to delivering seamless UI experiences at Agu Nwami Enterprise, I bring a holistic approach to every project.</li>
 </ul>
-
-
 <hr>
 
 ### 🧰 Languages and Tools
