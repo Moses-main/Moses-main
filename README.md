@@ -33,7 +33,7 @@
 <p style="font-size: 1.1em; line-height: 1.6; color: #333; text-align: left; text-justify: inter-word;">
   <strong>Languages:</strong> JavaScript, Python, Solidity, PHP, SQL, Elixir<br>
   <strong>Frontend:</strong> React, Tailwind CSS, Bootstrap, Material UI<br>
-  <strong>Backend:</strong> Node.js, Laravel, Elixir, Phoenix<br>
+  <strong>Backend:</strong> Node.js, Laravel, Express js, PHP, <br>
   <strong>Blockchain:</strong> Ethereum, Solidity, Web3.js, zkSync, Smart Contracts<br>
   <strong>Databases:</strong> MongoDB, MySQL, PostgreSQL<br>
   <strong>Tools:</strong> Git, Figma, VS Code, Web3.js, Docker, Agile, TDD, thirdweb.js
