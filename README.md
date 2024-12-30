@@ -1,14 +1,12 @@
 <div align="justify">
-<p><a href="https://moses-xbe9.onrender.com/"><img src="https://img.shields.io/badge/-Website-3B7EBF?style=for-the-badge&amp;logo=amp&amp;lgoColor=white" alt="Website Badge"></a> <a href="https://moses-sunday.hashnode.dev/"><img src="https://img.shields.io/badge/-Blog-3B7EBF?style=for-the-badge&amp;logo=Hashnode&amp;logoColor=white" alt="Blog Badge"></a> <a href="https://moses-sunday.hashnode.dev/newsletter"><img src="https://img.shields.io/badge/-Newsletter-3B7EBF?style=for-the-badge&amp;logo=Substack&amp;logoColor=white" alt="Newsletter Badge"></a> <a href="https://youtube.com/@devs_hub_?si=P44Q7EVJFkIEfEvZ"><img src="https://img.shields.io/badge/-Youtube-3B7EBF?style=for-the-badge&amp;logo=Youtube&amp;logoColor=white" alt="YouTube Badge"></a>
-
-<!-- <a href="https://slides.com/bolajiayodeji"><img src="https://img.shields.io/badge/-Slides-3B7EBF?style=for-the-badge&amp;logo=slides&amp;logoColor=white" alt="Slides Badge"></a>  -->
+<!-- <p><a href="https://moses-xbe9.onrender.com/"><img src="https://img.shields.io/badge/-Website-3B7EBF?style=for-the-badge&amp;logo=amp&amp;lgoColor=white" alt="Website Badge"></a> <a href="https://moses-sunday.hashnode.dev/"><img src="https://img.shields.io/badge/-Blog-3B7EBF?style=for-the-badge&amp;logo=Hashnode&amp;logoColor=white" alt="Blog Badge"></a> <a href="https://moses-sunday.hashnode.dev/newsletter"><img src="https://img.shields.io/badge/-Newsletter-3B7EBF?style=for-the-badge&amp;logo=Substack&amp;logoColor=white" alt="Newsletter Badge"></a> <a href="https://youtube.com/@devs_hub_?si=P44Q7EVJFkIEfEvZ"><img src="https://img.shields.io/badge/-Youtube-3B7EBF?style=for-the-badge&amp;logo=Youtube&amp;logoColor=white" alt="YouTube Badge"></a>
 
 <a href="www.linkedin.com/in/moses-sunday"><img src="https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin Badge"></a> <a href="https://twitter.com/Moses_Sunday_"><img src="https://img.shields.io/badge/@Moses_Sunday_-3B7EBF?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Twitter Badge"></a>
 
 <a href="https://github.com/sponsors/BolajiAyodeji"><img src="https://img.shields.io/badge/-github%20sponsors-3B7EBF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub Sponsors Badge"></a>
 
 <a href="https://patreon.com/bolajiayodeji"><img src="https://img.shields.io/badge/-Patreon-3B7EBF?style=for-the-badge&amp;logo=Patreon&amp;logoColor=white" alt="Patreon Badge"></a>
-
+ -->
 <img src="https://komarev.com/ghpvc/?username=Moses-main&amp;style=for-the-badge" alt="Profile Views Count Badge"></p>
 
 <hr>
