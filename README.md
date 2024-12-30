@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 <p><a href="https://moses-xbe9.onrender.com/"><img src="https://img.shields.io/badge/-Website-3B7EBF?style=for-the-badge&amp;logo=amp&amp;lgoColor=white" alt="Website Badge"></a> <a href="https://moses-sunday.hashnode.dev/"><img src="https://img.shields.io/badge/-Blog-3B7EBF?style=for-the-badge&amp;logo=Hashnode&amp;logoColor=white" alt="Blog Badge"></a> <a href="https://moses-sunday.hashnode.dev/newsletter"><img src="https://img.shields.io/badge/-Newsletter-3B7EBF?style=for-the-badge&amp;logo=Substack&amp;logoColor=white" alt="Newsletter Badge"></a> <a href="https://youtube.com/@devs_hub_?si=P44Q7EVJFkIEfEvZ"><img src="https://img.shields.io/badge/-Youtube-3B7EBF?style=for-the-badge&amp;logo=Youtube&amp;logoColor=white" alt="YouTube Badge"></a>
 
 <!-- <a href="https://slides.com/bolajiayodeji"><img src="https://img.shields.io/badge/-Slides-3B7EBF?style=for-the-badge&amp;logo=slides&amp;logoColor=white" alt="Slides Badge"></a>  -->
