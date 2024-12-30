@@ -14,11 +14,9 @@
   Hey there! 👋🏾 I'm deeply passionate about technology, especially software and blockchain development. I've spent significant time honing my skills in both areas, building innovative solutions and exploring new possibilities. Additionally, I'm skilled in crafting technical articles, making complex concepts accessible to readers.
 </p>
 
-<!-- 
 <p style="font-size: 1.1em; line-height: 1.6; color: #333; text-align: left; text-justify: inter-word;">
   As an advocate for open-source collaboration, I actively contribute to projects that drive progress and innovation in the tech industry. I believe in the power of community-driven development to create meaningful impact.
 </p>
--->
 
 <p style="font-size: 1.1em; line-height: 1.6; color: #333; text-align: left; text-justify: inter-word;">
   Beyond coding and writing, I thrive in community settings. I've cultivated vibrant tech communities where individuals come together to learn, collaborate, and support each other. Whether you need a software developer, blockchain enthusiast, technical writer, open-source contributor, or community builder, I'm here and ready to collaborate! Let's make a positive impact together in the world of technology.
