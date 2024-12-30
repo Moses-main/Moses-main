@@ -5,8 +5,8 @@
 
 <a href="https://github.com/sponsors/BolajiAyodeji"><img src="https://img.shields.io/badge/-github%20sponsors-3B7EBF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub Sponsors Badge"></a>
 
-<a href="https://patreon.com/bolajiayodeji"><img src="https://img.shields.io/badge/-Patreon-3B7EBF?style=for-the-badge&amp;logo=Patreon&amp;logoColor=white" alt="Patreon Badge"></a>
- -->
+<a href="https://patreon.com/bolajiayodeji"><img src="https://img.shields.io/badge/-Patreon-3B7EBF?style=for-the-badge&amp;logo=Patreon&amp;logoColor=white" alt="Patreon Badge"></a> -->
+ 
 <img src="https://komarev.com/ghpvc/?username=Moses-main&amp;style=for-the-badge" alt="Profile Views Count Badge"></p>
 
 <hr>
