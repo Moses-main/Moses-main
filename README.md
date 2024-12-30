@@ -21,6 +21,32 @@ As an advocate for open-source collaboration, I actively contribute to projects 
 <p>
 Beyond coding and writing, I thrive in community settings. I've cultivated vibrant tech communities where individuals come together to learn, collaborate, and support each other. Whether you need a software developer, blockchain enthusiast, technical writer, open-source contributor, or community builder, I'm here and ready to collaborate! Let's make a positive impact together in the world of technology..</p>
 
+
+
+
+<h3> 🌟 What I Do Best </h3>
+<p>Backend Mastery: Building powerful, scalable backend systems with Node.js, Express js, and Laravel.</p>	
+<p>Frontend Wizardry: Creating beautiful, responsive user interfaces with React, Tailwind CSS, and Material UI.</p>
+<p>Blockchain Developer: Developing smart contracts on Ethereum and zkSync, and building decentralized applications that change how we interact with the web. </p>
+<!-- Cloud & DevOps Enthusiast: Deploying apps using Google Cloud, Kubernetes, and CI/CD practices to streamline development and production pipelines. -->
+
+<h3> 💡 Technologies I Work With </h3>
+<p>
+Languages: JavaScript, Python, Solidity, PHP, SQL, Elixir
+Frontend: React, Tailwind CSS, Bootstrap, Material UI
+Backend: Node.js, Laravel, Elixir, Phoenix
+Blockchain: Ethereum, Solidity, Web3.js, zkSync, Smart Contracts
+Databases: MongoDB, MySQL, PostgreSQL
+DevOps & Cloud: Google Cloud, Docker, Kubernetes (GKE), CI/CD, GitHub Actions
+Tools: Git, Figma, VS Code, Web3.js, Docker, Agile, TDD, thirdweb.js
+</p>
+<h3> 🏆 Why I Stand Out </h3>	
+<p>
+Innovative Blockchain Developer: I don’t just follow trends; I build them. With experience building dApps and smart contracts, I’m making decentralized systems more accessible and powerful.
+Leadership & Community Impact: As the Director of ICT at NACOS, FUTO, I lead tech initiatives, advocate for innovation, and empower students with cutting-edge knowledge. I was also honored as an Outstanding Volunteer for my role in promoting Google Developers' events.
+Full-Stack Problem Solver: From tackling complex backend challenges at Stackclique to delivering seamless UI experiences at Agu Nwami Enterprise, I bring a holistic approach to every project.
+  </p>
+</p>
 <hr>
 
 ### 🧰 Languages and Tools
