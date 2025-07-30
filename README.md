@@ -2,7 +2,7 @@
 
 # 👨🏾‍💻 Moses Sunday
 
-<a href="https://moses-xbe9.onrender.com/">
+<a href="[https://moses-xbe9.onrender.com](https://moeth.vercel.app/)/">
   <img src="https://img.shields.io/badge/-Website-3B7EBF?style=for-the-badge&logo=amp&logoColor=white" alt="Website Badge">
 </a>
 <a href="https://moses-sunday.hashnode.dev/">
