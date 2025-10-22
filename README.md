@@ -96,6 +96,12 @@ As an **open-source contributor**, **ICT Director at NACOS FUTO**, and **award-w
   <img src="https://github-readme-stats.vercel.app/api?username=Moses-main&show_icons=true&hide_border=true&include_all_commits=true&custom_title=My%20GitHub%20Stats&title_color=3B7EBF&text_color=444&icon_color=3B7EBF&theme=transparent" alt="GitHub Stats"/>
 </p>
 
+
+---
+### Badges 
+[![An image of @mosesmain's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mosesmain)](https://holopin.io/@mosesmain)
+
+---
 ---
 
 ### 🙏🏾 Acknowledgement
