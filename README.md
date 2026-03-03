@@ -40,11 +40,28 @@
   
   <img src="https://komarev.com/ghpvc/?username=Moses-main&style=for-the-badge&color=3B7EBF" />
   <img src="https://img.shields.io/github/followers/Moses-main?style=for-the-badge&color=3B7EBF&label=Follow" />
+  <img src="https://img.shields.io/github/stars/Moses-main?style=for-the-badge&color=3B7EBF&label=Stars" />
+  <img src="https://img.shields.io/github/repos/Moses-main?style=for-the-badge&color=3B7EBF&label=Repos" />
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moses-main&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moses-main&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Top Languages" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moses-main&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+---
 
 I'm a **Senior Full-Stack Engineer** with 5+ years of experience building **scalable backend systems** and **production-grade applications**. I specialize in turning complex requirements into elegant, maintainable solutions that deliver real business value.
 
