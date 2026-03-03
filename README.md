@@ -1,11 +1,5 @@
 <div align="center">
-  <img 
-    src="https://pbs.twimg.com/profile_images/1971147516289630208/xcp0iydc_400x400.jpg"
-    width="120"
-    height="120"
-    style="border-radius: 50%; border: 4px solid #3B7EBF;"
-  />
-  
+
   <h1>Moses Sunday</h1>
   <h3>Senior Full-Stack Engineer • Backend Systems • Blockchain</h3>
   
